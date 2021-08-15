@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Volume_Slider/Volume_Slider.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
