@@ -60,6 +60,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Volume_Slider\SetVolume.cs" />
+    <Compile Include="Assets\Journal_System\Journal.cs" />
+    <Compile Include="Assets\Journal_System\Cube_Test_Player.cs" />
+    <Compile Include="Assets\Journal_System\Journal_Reader.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

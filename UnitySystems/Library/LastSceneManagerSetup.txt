@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Volume_Slider/Volume_Slider.unity
+- path: Assets/Journal_System/Journal_Tool.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

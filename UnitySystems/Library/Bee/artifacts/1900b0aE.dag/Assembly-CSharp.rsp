@@ -319,6 +319,9 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/VSSettingsProvider.ref.dll"
+"Assets/Journal_System/Cube_Test_Player.cs"
+"Assets/Journal_System/Journal.cs"
+"Assets/Journal_System/Journal_Reader.cs"
 "Assets/Volume_Slider/SetVolume.cs"
 -langversion:8.0
 
