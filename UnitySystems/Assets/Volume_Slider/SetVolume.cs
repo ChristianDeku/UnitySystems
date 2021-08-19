@@ -5,11 +5,11 @@ using UnityEngine.Audio;
 
 public class SetVolume : MonoBehaviour
 {
-    public AudioMixer _audioLayer;
+    public AudioMixer _audioMixer;
     public string _channel;
 
     public void SetMaster(float sliderValue)
     {
-        _audioLayer.SetFloat(_channel, Mathf.Log10(sliderValue) * 20);
+        _audioMixer.SetFloat(_channel, Mathf.Log10(sliderValue) * 20);
     }
 }

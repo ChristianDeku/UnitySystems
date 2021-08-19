@@ -60,6 +60,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Journal_System\Editor\JournalTool.cs" />
+    <Compile Include="Assets\Audio Manager\Scripts\Tools\Editor\AudioTool.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

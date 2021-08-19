@@ -59,10 +59,18 @@
     <Analyzer Include="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\Extensions\Microsoft\Visual Studio Tools for Unity\Analyzers\Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Audio Manager\Scripts\Player_Audio.cs" />
+    <Compile Include="Assets\Audio Manager\Scripts\Play_Dynamic_Sound.cs" />
     <Compile Include="Assets\Volume_Slider\SetVolume.cs" />
-    <Compile Include="Assets\Journal_System\Journal.cs" />
+    <Compile Include="Assets\Audio Manager\Scripts\Audio_Manager.cs" />
     <Compile Include="Assets\Journal_System\Cube_Test_Player.cs" />
+    <Compile Include="Assets\Audio Manager\Scripts\Sound.cs" />
+    <Compile Include="Assets\Journal_System\Journal.cs" />
     <Compile Include="Assets\Journal_System\Journal_Reader.cs" />
+    <Compile Include="Assets\Audio Manager\Scripts\Play_Static_Sound.cs" />
+    <Compile Include="Assets\Audio Manager\Scripts\Audio_Manager_Group.cs" />
+    <Compile Include="Assets\Audio Manager\Scripts\Test.cs" />
+    <Compile Include="Assets\Audio Manager\Scripts\Tools\Sound_List.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

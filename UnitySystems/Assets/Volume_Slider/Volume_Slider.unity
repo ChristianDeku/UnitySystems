@@ -545,7 +545,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 75f8f39a8027d3442910b16d2c036d84, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _audioLayer: {fileID: 24100000, guid: 4b6508d136fd4f64f8a3008aac065704, type: 2}
+  _audioMixer: {fileID: 24100000, guid: 4b6508d136fd4f64f8a3008aac065704, type: 2}
   _channel: MasterVol
 --- !u!114 &834632293
 MonoBehaviour:
@@ -865,7 +865,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 75f8f39a8027d3442910b16d2c036d84, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _audioLayer: {fileID: 24100000, guid: 4b6508d136fd4f64f8a3008aac065704, type: 2}
+  _audioMixer: {fileID: 24100000, guid: 4b6508d136fd4f64f8a3008aac065704, type: 2}
   _channel: MusicVol
 --- !u!114 &1095124687
 MonoBehaviour:

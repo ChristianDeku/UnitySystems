@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Journal_System/Journal_Tool.unity
+- path: Assets/Audio Manager/AudioTest.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
